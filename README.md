@@ -3,7 +3,7 @@ Play Dinosaur Game Using Hand Gesture
 
 ___
 ## Required Libraries
--opencv (pip install opencv) <br>
+-cvzone (pip install cvzone) <br>
 -mediapipe (pip install mediapipe)
 ___
 Play with opening chrome dino game close your fist to jump release to run
